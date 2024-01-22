@@ -1,0 +1,23 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Products"
+    url: /products/
+  - title: "Capabilities"
+    url: /capabilities/
+  - title: "Portfolio"
+    url: /projects/
+  - title: "Contact"
+    url: /contact/
+
+docs:
+  - title: Measurement Instrumentation
+    children:
+      - title: "Penetrometer Series"
+        url: /portfolio/penetrometer/
+      - title: "Pressure Transducer Series"
+        url: /portfolio/pressure/
+      - title: "Shear Vane Series"
+        url: /portfolio/vane/        
+
+     
